@@ -5,4 +5,4 @@ const aluno ={
     }
 };
 
-aluno.apresentar();
+alunos.apresentar();
